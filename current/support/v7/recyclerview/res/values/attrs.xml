@@ -33,7 +33,6 @@
         <eat-comment />
 
         <attr name="android:orientation" />
-        <attr name="android:descendantFocusability" />
         <attr name="spanCount" format="integer"/>
         <attr name="reverseLayout" format="boolean" />
         <attr name="stackFromEnd" format="boolean" />

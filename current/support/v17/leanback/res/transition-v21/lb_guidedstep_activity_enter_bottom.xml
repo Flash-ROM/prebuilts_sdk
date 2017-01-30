@@ -15,9 +15,7 @@
      limitations under the License.
 -->
 
-<transition class="android.support.v17.leanback.transition.FadeAndShortSlide"
-      xmlns:android="http://schemas.android.com/apk/res/android"
-      xmlns:app="http://schemas.android.com/apk/res-auto"
+<slide xmlns:android="http://schemas.android.com/apk/res/android"
       android:interpolator="@android:interpolator/fast_out_linear_in"
       android:duration="@integer/lb_guidedstep_activity_background_fade_duration_ms"
-      app:lb_slideEdge="bottom" />
+      android:slideEdge="bottom" />

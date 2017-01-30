@@ -59,4 +59,6 @@
             style="?android:attr/buttonStyle"/>
     </LinearLayout>
 
+    <include layout="@layout/lb_browse_title" />
+
 </FrameLayout>
